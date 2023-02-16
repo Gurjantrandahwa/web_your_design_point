@@ -6495,7 +6495,10 @@ progress {
 .list-unstyled {
   padding-left: 0;
   list-style: none; }
+.list-unstyled li {
 
+  margin-bottom: 10px;
+}
 .blockquote {
   margin-bottom: 1rem;
   font-size: 1.25rem; }
