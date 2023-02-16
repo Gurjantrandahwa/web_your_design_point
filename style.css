@@ -8062,7 +8062,7 @@ textarea {
       content: "";
       width: 40px;
       height: 40px;
-      top: -0px;
+      top: -18px;
       left: -0px;
       background-color: rgba(217, 68, 251, 0.5);
       border-radius: 50%;
@@ -8071,7 +8071,7 @@ textarea {
     font-size: 18px;
     font-weight: 700; }
   .feature.text-center .icon:before {
-    left: 50%; }
+    left: 56%; }
 
 .service {
   padding: 30px;
@@ -8334,7 +8334,7 @@ textarea {
     .site-footer ul.quick-info li.address:before {
       content: "\e8b4"; }
     .img-icon{
-      width: 56px;
+      width: 110px;
       object-fit: cover;
     }
     .img-icon-larger{
